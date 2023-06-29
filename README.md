@@ -8,13 +8,13 @@ Thus, you can take advantage of multi-core CPUs.
 
 # performance
 1. without ump
-The result of test is "delay is 47921"
+> The result of test is "delay is 47921"
 
 2. with ump
-The result of test is "delay is 9799"
+> The result of test is "delay is 9799"
 
 3. result
-The performance is improved by 79%
+> The performance is improved by 389%
 
 # build
 ## for so
